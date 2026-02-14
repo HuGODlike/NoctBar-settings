@@ -396,7 +396,7 @@
         "animationDisabled": false,
         "animationSpeed": 1.5,
         "autoStartAuth": false,
-        "avatarImage": "/home/hugodlike/Imagens/Profile/Hugo_Moreira_anime_caracter_adult_male_cute_face_dark_hair_4k_b_a243ae76-6b18-4a3e-80c8-9d95b808f4ca.png",
+        "avatarImage": "/home/Imagens/anime_caracter_adult_male_cute_face_dark_hair_4k_b_a243ae76-6b18-4a3e-80c8-9d95b808f4ca.png",
         "boxRadiusRatio": 1,
         "clockFormat": "hh\\nmm",
         "clockStyle": "custom",
@@ -760,7 +760,7 @@
     },
     "wallpaper": {
         "automationEnabled": true,
-        "directory": "/home/hugodlike/Imagens/Wallpapers 1080",
+        "directory": "/home/Imagens/Wallpapers 1080",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
